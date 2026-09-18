@@ -1,0 +1,18 @@
+# Editor local history (VS Code Local History extension)
+.history/
+
+# Claude local overrides (personal, not shared)
+.claude/settings.local.json
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
